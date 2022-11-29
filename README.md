@@ -8,4 +8,4 @@ I have written an [article](https://medium.com/p/30d5a68f7679) in Medium. Check 
 
 ---
 
-Here is the SwiftUI version of this project.
+Here is the [SwiftUI version](https://github.com/ed-yee/Bullet-List-SwiftUI-iOS-Playground) of this project.
